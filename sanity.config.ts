@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'DiesDas Website',
 
-  projectId: 'o1ltzjp3',
+  projectId: 'pptoqvcu',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
