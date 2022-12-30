@@ -38,7 +38,6 @@ export default {
               options: {
                 list: [
                   {title: 'English', value: 'en'},
-                  {title: 'Spanish', value: 'es'},
                   {title: 'Deutsch', value: 'de'},
                 ],
               },
